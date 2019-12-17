@@ -8,15 +8,15 @@
 
   <ul class="navbar-nav">
     <li class="nav-item">
-      <a class="nav-link" href="#">Opleiding</a>
+      <a class="nav-link" href="opleiding.php">Opleiding</a>
     </li>
 
     <li class="nav-item">
-      <a class="nav-link" href="#">Inschrijven</a>
+      <a class="nav-link" href="inschrijven.php">Inschrijven</a>
     </li>
 
     <li class="nav-item">
-      <a class="nav-link" href="#">spel</a>
+      <a class="nav-link" href="spel.php">spel</a>
     </li>
   </ul>
   </nav>
