@@ -1,7 +1,7 @@
 <!-- navbar -->
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
     <!-- Brand/logo -->
-    <a class="navbar-brand" href="#">
+    <a class="navbar-brand" href="index.php">
       <img src="./img/navbar_logo.png" alt="logo" style="width:50px;">
     </a>
   <!-- Links -->
