@@ -23,7 +23,7 @@
   </div>
 
   <!-- slider --->
-  <h1>Space X</h1>
+  <h1>SpaceX</h1>
   <div class="container">
     <div class="row">
 
