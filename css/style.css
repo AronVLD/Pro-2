@@ -38,3 +38,6 @@ h1 {
     margin-top: 500px;
 
 }
+.background {
+    background-image: linear-gradient(to bottom right, #2c2f33 50%, #23272a 50%);
+}
