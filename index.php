@@ -14,7 +14,7 @@
 
 <body>
   <!-- Links -->
-
+<div class="background">
   <div class="row bg-light" id="navbar">
     <div class="col-12">
 
@@ -24,7 +24,7 @@
 
   <!-- slider --->
   <h1>SpaceX</h1>
-  <div class="container">
+  <div class="container" >
     <div class="row">
 
       <div class="slider col-12">
@@ -42,6 +42,7 @@
 
       </div>
     </div>
+  </div>
   </div>
 
   <!-- Optional JavaScript -->

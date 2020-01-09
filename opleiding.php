@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="./css/style.css">
-    <title>Yeet!</title>
+    <title>MBOU</title>
   </head>
   <body class="background">
   <div class="row bg-light" id="navbar">
@@ -22,7 +22,7 @@
   <div class="col-6 text-white">
   <h1 class="display-4">Astronaut worden?!</h1>
   <p class="lead">
-  <img src="img\Become_an_astronaut_-_NL.jpg" alt="Meld je aan bij "aanmelden" in de navbar!">
+  <img src="img\Become_an_astronaut_-_NL.jpg" alt="Meld je aan bij aanmelden in de navbar!">
   </p>
   <hr class="my-4">
   <p>Als jij astronaut wilt worden, Meld je dan nu aan op onze website!</p></div>
@@ -43,6 +43,7 @@
       </p>
     <hr class="my-4">
   </div>
+  <div class="mapouter"><div class="gmap_canvas"><iframe width="400" height="400" id="gmap_canvas" src="https://maps.google.com/maps?q=daltonlaan%20300&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.embedgooglemap.net/blog/elementor-pro-discount-code-review/">elementor discount code</a></div><style>.mapouter{position:relative;text-align:right;height:400px;width:400px;}.gmap_canvas {overflow:hidden;background:none!important;height:400px;width:400px;}</style></div>
   
 
 </div>

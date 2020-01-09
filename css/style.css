@@ -28,7 +28,7 @@ h1 {
 @keyframes silder{
     0% { background-image: url("/img/space.jpg"); background-size: 100% 100%; }
     35%{ background-image: url("/img/fantasia_space.jpg"); background-size: 100% 100%; }
-    75%{ background-image: url("/img/shrek.jpg"); background-size: 100% 100%; }
+    75%{ background-image: url("/img/milkyway.jpg"); background-size: 100% 100%; }
 }
 
 .textbar {
@@ -41,4 +41,9 @@ h1 {
 
 .background {
     background-image: linear-gradient(to bottom right, #2c2f33 50%, #23272a 50%);
+}
+h2 {
+    padding-top: 55px;
+    color: white;
+    padding-left: 500px;
 }
