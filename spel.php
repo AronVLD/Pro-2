@@ -19,7 +19,10 @@
         </div>
   <div class="container-fluid">
   <div class="row">
-  <h2>INTERGALACTISCHE GAME</h2>
+  <div class="col-4 text-white"></div>
+  <div class="col-4 text-white">
+  <h1>INTERGALACTISCHE GAME</h1></div>
+  <div class="col-4 text-white"></div>
   <div class="col-6 text-white">
   
   
